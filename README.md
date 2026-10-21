@@ -10,9 +10,9 @@ Welcome to my portfolio! I specialize in building clean gameplay architecture, d
 
 Here you can explore my key implementations, architectural decisions, and gameplay mechanics:
 
-* **[Video 1: C++ Core & Custom SFML Engine]([LINK_TO_VIDEO_1](https://drive.google.com/file/d/1lNla60uJa8Xq91rQR2mDTMw5zOHTsdUY/view?usp=sharing))** — A deep dive into my custom C++ 2D engine built from scratch with SFML (no GUI editor): `Objects`/`Actors`/`Levels` hierarchy, resource management, templated widget UI system, and custom file/console logging.
-* **[Video 2: UE5 Architecture & Tooling]((https://drive.google.com/file/d/1pJxjnC9SwPMGYx9FDRZP2_t7FBLMrkNx/view?usp=sharing))** — Overview of my UE5 development workflow: pushing heavy logic to C++, configuring global parameters in `ProjectSettings`, modular `DataAssets` (assembling items via fragments), and custom Editor Tools for game designers.
-* **[Video 3: Gameplay Showreel]([LINK_TO_VIDEO_3](https://drive.google.com/file/d/1efs8bjHQF2SXulnAdhcPknjbaWfwPMxi/view?usp=sharing))** — A playable build showcase of a late-stage project: combat system, animation pipeline, UI, and technical artist implementations in real time.
+* **[Video 1: C++ Core & Custom SFML Engine](https://drive.google.com/file/d/1lNla60uJa8Xq91rQR2mDTMw5zOHTsdUY/view?usp=sharing)** — A deep dive into my custom C++ 2D engine built from scratch with SFML (no GUI editor): `Objects`/`Actors`/`Levels` hierarchy, resource management, templated widget UI system, and custom file/console logging.
+* **[Video 2: UE5 Architecture & Tooling](https://drive.google.com/file/d/1pJxjnC9SwPMGYx9FDRZP2_t7FBLMrkNx/view?usp=sharing)** — Overview of my UE5 development workflow: pushing heavy logic to C++, configuring global parameters in `ProjectSettings`, modular `DataAssets` (assembling items via fragments), and custom Editor Tools for game designers.
+* **[Video 3: Gameplay Showreel](https://drive.google.com/file/d/1efs8bjHQF2SXulnAdhcPknjbaWfwPMxi/view?usp=sharing)** — A playable build showcase of a late-stage project: combat system, animation pipeline, UI, and technical artist implementations in real time.
 
 🎮 **[DOWNLOAD PLAYABLE DEMO BUILDS (Google Drive / Yandex Disk)](LINK_TO_BUILDS_ARCHIVE)**
 
