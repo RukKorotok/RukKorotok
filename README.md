@@ -14,7 +14,7 @@ Here you can explore my key implementations, architectural decisions, and gamepl
 * **[Video 2: UE5 Architecture & Tooling](https://drive.google.com/file/d/1pJxjnC9SwPMGYx9FDRZP2_t7FBLMrkNx/view?usp=sharing)** — Overview of my UE5 development workflow: pushing heavy logic to C++, configuring global parameters in `ProjectSettings`, modular `DataAssets` (assembling items via fragments), and custom Editor Tools for game designers.
 * **[Video 3: Gameplay Showreel](https://drive.google.com/file/d/1efs8bjHQF2SXulnAdhcPknjbaWfwPMxi/view?usp=sharing)** — A playable build showcase of a late-stage project: combat system, animation pipeline, UI, and technical artist implementations in real time.
 
-🎮 **[DOWNLOAD PLAYABLE DEMO BUILDS (Google Drive / Yandex Disk)](LINK_TO_BUILDS_ARCHIVE)**
+🎮 **[DOWNLOAD PLAYABLE DEMO BUILDS (Google Drive)](https://drive.google.com/drive/folders/1VHrIJKQMu-EOM8jhOTcSDpfZRc7whcV0?hl=ru)**
 
 ---
 
