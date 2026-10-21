@@ -1,46 +1,45 @@
-# 👋 Привет! Я Илья Фалько
+# 👋 Hi, I'm Ilya Falko
 
 ### 🚀 C++ & Unreal Engine 5 Developer
 
-Добро пожаловать в моё портфолио! Я специализируюсь на создании чистой геймплейной архитектуры, разработке кастомных Editor Tools[cite: 1] и проектировании систем для удобства всей команды разработчиков[cite: 1]. 
+Welcome to my portfolio! I specialize in building clean gameplay architecture, developing custom Editor Tools, and designing systems that make iteration fast and painless for the entire development team.
 
 ---
 
-## 📺 Демонстрация проектов и видео
+## 📺 Project Demos & Videos
 
-Здесь вы можете посмотреть ключевые наработки, архитектурные решения и геймплей:
+Here you can explore my key implementations, architectural decisions, and gameplay mechanics:
 
-* **[Видео 1: C++ Core & Custom SFML Engine](ТССЫЛКА_НА_ВИДЕО_1)** — Демонстрация работы моего собственного 2D-движка на C++ и SFML (без графического редактора): архитектура `Objects`/`Actors`/`Levels`, менеджмент ресурсов, иерархический UI на шаблонных виджетах и кастомная система логирования.
-* **[Видео 2: UE5 Architecture & Tooling](ТССЫЛКА_НА_ВИДЕО_2)** — Обзор подхода к разработке в Unreal Engine 5[cite: 1]: вынос логики в C++, глобальные настройки в `ProjectSettings`, модульные `DataAssets` (для сборки мечей/зелий) и кастомные инструменты для геймдизайнеров[cite: 1].
-* **[Видео 3: Gameplay Showreel](ТССЫЛКА_НА_ВИДЕО_3)** — Демонстрация playable-билда проекта на поздней стадии[cite: 1]: боевая система, анимационный пайплайн, UI и комплексная реализация механик[cite: 1].
+* **[Video 1: C++ Core & Custom SFML Engine]([LINK_TO_VIDEO_1](https://drive.google.com/file/d/1lNla60uJa8Xq91rQR2mDTMw5zOHTsdUY/view?usp=sharing))** — A deep dive into my custom C++ 2D engine built from scratch with SFML (no GUI editor): `Objects`/`Actors`/`Levels` hierarchy, resource management, templated widget UI system, and custom file/console logging.
+* **[Video 2: UE5 Architecture & Tooling]([LINK_TO_VIDEO_2](https://drive.google.com/file/d/1pJxjnC9SwPMGYx9FDRZP2_t7FBLMrkNx/view?usp=sharing))** — Overview of my UE5 development workflow: pushing heavy logic to C++, configuring global parameters in `ProjectSettings`, modular `DataAssets` (assembling items via fragments), and custom Editor Tools for game designers.
+* **[Video 3: Gameplay Showreel]([LINK_TO_VIDEO_3](https://drive.google.com/file/d/1efs8bjHQF2SXulnAdhcPknjbaWfwPMxi/view?usp=sharing))** — A playable build showcase of a late-stage project: combat system, animation pipeline, UI, and technical artist implementations in real time.
 
-🎮 **[СКАЧАТЬ ДЕМО-БИЛДЫ ПРОЕКТОВ (Google Drive / Яндекс Диск)](ССЫЛКА_НА_АРХИВ_БИЛДОВ)**
+🎮 **[DOWNLOAD PLAYABLE DEMO BUILDS (Google Drive / Yandex Disk)](LINK_TO_BUILDS_ARCHIVE)**
 
 ---
 
-## 🛠 Ключевые проекты
+## 🛠 Key Projects
 
 ### 1. Bane & Bastion (Unreal Engine 5)
-* **Описание:** 3D Action / Tactic проект с упором на чистую архитектуру и удобство настройки контента.
-* **Стек:** C++, Blueprints, GAS (Gameplay Ability System), Data Assets, Editor Utility Tools.
-* **Особенности:** Настройка геймплейных событий на уровне для любых акторов, система сохранений мира и модульный дизайн предметов.
+* **Overview:** A 3D Action / Tactical project focused on robust architecture and designer-friendly workflow.
+* **Tech Stack:** C++, Blueprints, GAS (Gameplay Ability System), Data Assets, Editor Utility Tools.
+* **Key Features:** Level-bound gameplay events for any actor, world save system, and modular item framework.
 
 ### 2. FalkonEngine (C++ & SFML)
-* **Описание:** Собственный 2D-движок, написанный с нуля на чистом C++.
-* **Стек:** C++17/20, SFML, ООП, паттерны проектирования.
-* **Особенности:** Реализована собственная иерархия `Object`/`Subobject`/`World`/`Actor`/`Level`, система подгрузки чанхов, текстурная Sprite Sheet анимация и шаблонная UI-система.
+* **Overview:** A custom 2D game engine written from scratch in pure C++.
+* **Tech Stack:** C++17/20, SFML, OOP, Design Patterns.
+* **Key Features:** Custom `Object`/`Subobject`/`World`/`Actor`/`Level` lifecycle, chunk loading system, Sprite Sheet animation, and templated UI.
 
 ---
 
-## 💻 Технический стек
+## 💻 Tech Stack
 
-* **Языки:** C++17/20, Blueprints
-* **Фреймворки и движки:** Unreal Engine 5, SFML
-* **Архитектура и инструменты:** ООП, структуры данных, алгоритмы, Git, Visual Studio, Rider, Blender 3D (для работы с ассетами и VFX)
+* **Languages:** C++17/20, Blueprints
+* **Frameworks & Engines:** Unreal Engine 5, SFML
+* **Architecture & Tools:** OOP, Data Structures, Algorithms, Git, Visual Studio, Rider, Blender 3D (Asset adaptation & VFX)
 
 ---
 
-## 📬 Контакты и ссылки
+## 📬 Contacts & Links
 
-* **GitHub / GitLab (Исходный код):** [RukKorotok](https://gitlab.com/RukKorotok/baneandbastion)[cite: 1]
-* **Технический паблик (VK):** [Перейти в сообщество](https://vk.com/public189719471)
+* **GitHub / GitLab (Source Code
