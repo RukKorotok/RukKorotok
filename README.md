@@ -20,12 +20,12 @@ Here you can explore my key implementations, architectural decisions, and gamepl
 
 ## 🛠 Key Projects
 
-### 1. Bane & Bastion (Unreal Engine 5)
+### 1. [BaneAndBastion](https://gitlab.com/RukKorotok/baneandbastion)** - (Unreal Engine 5)
 * **Overview:** A 3D Action / Tactical project focused on robust architecture and designer-friendly workflow.
 * **Tech Stack:** C++, Blueprints, GAS (Gameplay Ability System), Data Assets, Editor Utility Tools.
 * **Key Features:** Level-bound gameplay events for any actor, world save system, and modular item framework.
 
-### 2. FalkonEngine (C++ & SFML)
+### 2. [Bane-Bastion](https://github.com/RukKorotok/Bane-Bastion.git)** - (C++ & SFML)
 * **Overview:** A custom 2D game engine written from scratch in pure C++.
 * **Tech Stack:** C++17/20, SFML, OOP, Design Patterns.
 * **Key Features:** Custom `Object`/`Subobject`/`World`/`Actor`/`Level` lifecycle, chunk loading system, Sprite Sheet animation, and templated UI.
